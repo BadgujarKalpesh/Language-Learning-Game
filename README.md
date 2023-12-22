@@ -9,6 +9,12 @@ logic for scoring, and a database to store user progress and language data.
 
 In the project directory, you can run the following npm scripts:
 
+### `npm install`
+
+### `npm install react-redux react-router-dom axios`
+
+### `npm install @reduxjs/toolkit`
+
 ### `npm start`
 
 Runs the app in the development mode.\
