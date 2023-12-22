@@ -8,22 +8,6 @@ logic for scoring, and a database to store user progress and language data.
 ## Available Scripts
 
 In the project directory, you can run the following npm scripts:
-**Install the necessary dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-### Adding Additional Dependencies
-
-To add specific dependencies to your React project:
-
-```bash
-# Install react-redux, react-router-dom, axios
-npm install react-redux react-router-dom axios
-
-# Install @reduxjs/toolkit
-npm install @reduxjs/toolkit
 
 ### `npm start`
 
