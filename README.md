@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Language Learning Game
 
-This project was bootstrapped with Create React App.
+created a language learning game that
+helps users improve their language proficiency through interactive exercises
+and activities. The game should include frontend UI components, backend
+logic for scoring, and a database to store user progress and language data.
 
 ## Available Scripts
 
